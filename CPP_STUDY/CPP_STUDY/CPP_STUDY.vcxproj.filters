@@ -213,6 +213,9 @@
     <ClCompile Include="test4.cpp">
       <Filter>소스 파일\기타</Filter>
     </ClCompile>
+    <ClCompile Include="test20200322.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p544 PointTemplate.h">
